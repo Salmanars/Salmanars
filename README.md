@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Computer+Engineering+Graduate;CCNA+Certified;Based+in+Semarang%2C+Indonesia" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Salmanars&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 <p align="center">
