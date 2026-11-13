@@ -1,4 +1,6 @@
-BANNER_DI_SINI
+<p align="center">
+  <img src="github_salmanprofile_1.png" alt="Welcome to my GitHub" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Salman Arya Sandytia</h1>
 
