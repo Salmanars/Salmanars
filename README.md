@@ -34,13 +34,6 @@ recently built a digital medical certificate system with hash-verified REST APIs
 
 ### 📊 daily development journey
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salmanars&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanars&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanars&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Salmanars&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
