@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_salmanprofile_1.png" alt="Welcome to my GitHub" width="100%" />
+  <img src="https://github.com/user-attachments/assets/647516f9-43b3-492c-a0c7-63af22f5c0f2" alt="Welcome to my GitHub" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Salman Arya Sandytia</h1>
