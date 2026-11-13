@@ -31,9 +31,3 @@ recently built a digital medical certificate system with hash-verified REST APIs
 </p>
 
 ---
-
-### 📊 daily development journey
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Salmanars&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
