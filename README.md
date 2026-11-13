@@ -1,26 +1,15 @@
-<h1 align="center">Hi 👋, I'm Salman Arya Sandytia</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Computer+Engineering+Graduate;CCNA+Certified;Based+in+Semarang%2C+Indonesia" alt="Typing SVG" />
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/647516f9-43b3-492c-a0c7-63af22f5c0f2" alt="Welcome to my GitHub" width="100%" />
 </p>
 
-### 👨‍💻 About Me
+[Salman Arya Sandytia](https://salmanars.vercel.app) is a full-stack engineer and Computer Engineering graduate from [Universitas Diponegoro](https://www.undip.ac.id/), specializing in secure system architecture and committed to delivering impactful solutions while continuously growing professionally.
 
-- 🎓 Computer Engineering graduate from **Universitas Diponegoro** (GPA 3.59/4.00)
-- 🌐 **Full-Stack Engineer**: Next.js, React.js, Node.js, Express.js, and MySQL
-- 🔐 Built a **digital medical certificate system** with hash-verified REST APIs, integrated with a blockchain verification network
-- 🥽 Built a **Virtual Reality app** with Unity 3D during my internship
-- 🛜 **Cisco Certified Network Associate (CCNA)**
-- 🏆 Finalist in Scientific Paper Category, **GEMASTIK XVII 2024** (Team Fishcoin)
-- 🤝 Former Head of Information Division, Himpunan Teknik Komputer UNDIP
+recently built a digital medical certificate system with hash-verified REST APIs, integrated with a blockchain verification network, at Klinik Pratama Diponegoro.
 
----
+**experience**
+
+- [2025] fullstack engineer (project-based) @ Klinik Pratama Diponegoro.
+- [2024] IT support intern @ PT Duta Basis DataPrima.
 
 ### 🔗 Connect with me
 
