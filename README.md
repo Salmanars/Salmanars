@@ -14,9 +14,12 @@ recently built a digital medical certificate system with hash-verified REST APIs
 ### 🔗 Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/salman-arya-sandytia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://salmanars.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:aryasandytia26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/salman-arya-sandytia/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aryasandytia26@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email" />
+  </a>
 </p>
 
 ---
