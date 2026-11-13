@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/647516f9-43b3-492c-a0c7-63af22f5c0f2" alt="Welcome to my GitHub" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Salman Arya Sandytia</h1>
 
 <p align="center">
@@ -13,6 +9,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/647516f9-43b3-492c-a0c7-63af22f5c0f2" alt="Welcome to my GitHub" width="100%" />
+</p>
 
 ### 👨‍💻 About Me
 
