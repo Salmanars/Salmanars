@@ -34,21 +34,13 @@ recently built a digital medical certificate system with hash-verified REST APIs
 
 ### 📊 daily development journey
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Salmanars&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanars&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Salmanars&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmanars&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Salmanars&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmanars&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salmanars&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Salmanars&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
